@@ -59,7 +59,7 @@ Deletes the application provided!
 
 ## App Info
 
-Author - Nilay Gupta
+
 
 Version - 1.0.0
 
